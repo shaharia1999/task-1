@@ -23,6 +23,7 @@
     grid-template-rows: auto;
     grid-gap:10px;
     margin-top: 10px;
+    height: 100%;
     
 }
 /* second layout  */
